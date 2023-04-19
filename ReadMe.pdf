@@ -1,0 +1,16 @@
+1- کد رو از صفحه ی مربوطه در کتاب کپی کرده و داخل فایل پارت ۱ قرار دادم
+
+2- اکانت گیتهاب را ساخته و لاگین کردم 
+
+3- با استفاده از کامند های زیر ریپازتوری گیتهاب را ساخته و فایل مربوط را اپلود کردم
+- "gh repo create"
+- "cd uni_homework_01"
+- "git init"
+- "git add ."
+- "git commit -m \"message\" " 
+- "git push"
+
+4- برای ایمپورت کردن فایل مربوطه از گیتهاب به ترتیب مراحل زیر را طی کردم
+- "git clone https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition.git"
+- "cd /ch_02/src"
+- "python3 point_2.py"
