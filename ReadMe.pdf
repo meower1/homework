@@ -4,7 +4,7 @@
 
 3- با استفاده از کامند های زیر ریپازتوری گیتهاب را ساخته و فایل مربوط را اپلود کردم
 - "gh repo create"
-- "cd uni_homework_01"
+- "cd homework"
 - "git init"
 - "git add ."
 - "git commit -m \"message\" " 
